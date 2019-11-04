@@ -1,7 +1,9 @@
-[뒤로가기](/README.md)
+[메인](/README.md)
 # Study
 
-공부한 내용을 정리하는 페이지입니다.  
-대분류 Link를 누르시면 그곳의 Readme로 가게 됩니다.
-
-### [MachineLearning](MachineLearning/README.md)
+## [MachineLearning](MachineLearning/README.md)  
+- [지도학습](#)
+- 비지도학습
+- [강화학습](MachineLearning/ReinforcementLearning.md)
+### BigData  
+### BlockChain

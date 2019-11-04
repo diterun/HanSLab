@@ -5,9 +5,12 @@
 더욱 편하게 보실려면 [티스토리](https://hanslab.tistory.com/)에서 확인 하실 수 있습니다.
 
 ## [Study](Study/README.md)
-- [MachineLearning](MachineLearning/README.md)  
+- [MachineLearning](Study/MachineLearning/README.md)  
 - BigData  
 - BlockChain
 ## [프로젝트](Project/README.md)
+- [드론](Project/Drone/README.md)
 ## [알고리즘](Algorithm/README.md)
 
+---
+> vscode에서 수식을 보기 위해서는 Markdown+Math를 install하셔야 합니다.
